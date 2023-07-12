@@ -7,8 +7,8 @@
 
 ## Estatística Descritiva
 
-• É o ramo da estatística que se ocupa em organizar e descrever os dados, que podem ser expressos em tabelas e gráficos.  
-• Pode ser dividida em dois Grupos:
+### • É o ramo da estatística que se ocupa em organizar e descrever os dados, que podem ser expressos em tabelas e gráficos.  
+### • Pode ser dividida em dois Grupos:
 ![image](https://github.com/ademarionobre/Formacao-analista-de-dados_CECD/assets/92057489/bd3085df-ba78-4cc4-a238-608a23fb9895)
 
 ## Probabilidade
@@ -16,8 +16,7 @@
 ## • Nos permite descrever os fenômenos aleatórios, ou seja, aqueles em que está presente a incerteza.
 
 ## Amostragem  
-### • Conjunto de técnicas para selecionar uma amostra da população, com o objetivo de obter informações de uma ou mais características de interesse, as quais permitam chegar a conclusões
-a respeito dos parâmetros.
+### • Conjunto de técnicas para selecionar uma amostra da população, com o objetivo de obter informações de uma ou mais características de interesse, as quais permitam chegar a conclusões a respeito dos parâmetros.
 
   ### • População: É a coleção de todos os indivíduos que possuem deter minadas características, as quais estamos interessados em estudar.
     ➢ Representamos por: N = “Tamanho Populacional”.
@@ -26,4 +25,4 @@ a respeito dos parâmetros.
     Importante: Sempre que falarmos em Amostra, usaremos letras Minúsculas e População, por sua vez, Maiúsculas.
 
 ## Inferência Estatística
-• É o estudo de técnicas que possibilitam a extrapolação, a um grande conjunto de dados, das informações e conclusões obtidas a partir da amostra.
+### • É o estudo de técnicas que possibilitam a extrapolação, a um grande conjunto de dados, das informações e conclusões obtidas a partir da amostra.
