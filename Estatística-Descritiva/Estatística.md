@@ -7,7 +7,7 @@
 
 ## Estatística Descritiva
 
-• É o ramo da estatística que se ocupa em organizar e descrever os dados, que podem ser expressos em tabelas e gráficos.
+• É o ramo da estatística que se ocupa em organizar e descrever os dados, que podem ser expressos em tabelas e gráficos.  
 • Pode ser dividida em dois Grupos:
 ![image](https://github.com/ademarionobre/Formacao-analista-de-dados_CECD/assets/92057489/bd3085df-ba78-4cc4-a238-608a23fb9895)
 
