@@ -5,7 +5,7 @@
 ### Este curso tem como objetivo dar uma visão geral de como funciona um projeto de dados, partindo desde a necessidade do negócio com a especificação e criação do banco de dados, depois do banco de dados criado e de realização de diversas consultas SQL, iremos para a especificação de necessidade de Análises do negócio e passando pela criação pela Modelagem Multidimensional, do Data Warehouse, da Análise Exploratória de Dados e da Visualização de Dados. No final ainda comentamos brevemente sobre SQL para grande volume de dados, Bancos NoSQL e uma Clusterização utilizando Machine Learning.
 
 ## SQL
-• Visão geral do curso  
+• Visão geral  
 • Características comportamentais  
 • Levantamento de Requisito para criação do Banco de Dados  
 • Modelagem de Entidade e Relacionamento – MER  
